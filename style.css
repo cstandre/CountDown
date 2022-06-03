@@ -20,8 +20,18 @@ h2 {
 h1 {
     text-align: right;
     color: ghostwhite;
-    margin-top: -10rem;
-    padding: 10rem;
+    margin-top: -15rem;
+    padding: 12rem;
     font-size: 600%;
+    font-family: 'Nuosu SIL', serif;
+    font-family: 'Raleway', sans-serif;
+}
 
+p {
+    font-size: 20pt;
+    font-family: 'Nuosu SIL', serif;
+    font-family: 'Raleway', sans-serif;
+    color: ghostwhite;
+    margin-top: -3rem;
+    margin-right: -4rem;
 }
