@@ -1,5 +1,27 @@
 body {
-background-image: url("https://images.unsplash.com/photo-1521724549805-d45cbe97ee87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
-background-size: cover;
-background-repeat: no-repeat;
+    background-image: url("https://static.boredpanda.com/blog/wp-content/uploads/2017/05/hairless-sphynx-cat-photography-alicia-rius-15-5909933e21c6e__880.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+h2 {
+    font-family: 'Nuosu SIL', serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: right;
+    padding: 5rem;
+    color: ghostwhite;
+
+}
+
+h1 {
+    text-align: right;
+    color: ghostwhite;
+    margin-top: -10rem;
+    padding: 10rem;
+    font-size: 600%;
+
 }
