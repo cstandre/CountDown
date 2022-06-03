@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 150vh;
     width: 100vw;
     overflow: hidden;
 }
@@ -20,18 +20,19 @@ h2 {
 h1 {
     text-align: right;
     color: ghostwhite;
-    margin-top: -15rem;
-    padding: 12rem;
-    font-size: 600%;
+    margin-top: -23rem;
+    padding-top: 13.5rem;
+    padding-right: 7rem;
+    font-size: 200%;
     font-family: 'Nuosu SIL', serif;
     font-family: 'Raleway', sans-serif;
 }
 
 p {
-    font-size: 20pt;
+    font-size: 70pt;
     font-family: 'Nuosu SIL', serif;
     font-family: 'Raleway', sans-serif;
     color: ghostwhite;
     margin-top: -3rem;
-    margin-right: -4rem;
+    margin-left: 62rem;
 }
