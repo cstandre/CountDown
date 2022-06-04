@@ -59,5 +59,6 @@ p {
 
     body {
         background-position: -13rem;
+        overflow: hidden;
     }
 }
